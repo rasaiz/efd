@@ -268,4 +268,5 @@
 
 	<!-- Submission list grids -->
 	<message key="grid.submission.itemTitle">Autor; Título</message>
+	<message key="grid.action.deleteNotifications">Excluir notificações</message>
 </locale>

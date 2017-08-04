@@ -45,7 +45,7 @@ class DefaultManuscriptChildThemePlugin extends ThemePlugin {
 		// Load the Montserrat and Open Sans fonts
 		$this->addStyle(
 			'font',
-			'//fonts.googleapis.com/css?family=Montserrat:400,700|Noto+Serif:400,400i,700,700i',
+			'//fonts.googleapis.com/css?family=Play:400,700|Noto+Serif:400,400i,700,700i',
 			array('baseUrl' => '')
 		);
 

@@ -18,7 +18,7 @@
 
 	<message key="grid.action.sort">Orden</message>
 	<message key="grid.action.addItem">Agregar ítem</message>
-	<message key="grid.action.delete">Borra</message>
+	<message key="grid.action.delete">Borrar</message>
 	<message key="grid.action.edit">Editar</message>
 	<message key="grid.action.restoreDefaults">Restaurar valores por defecto</message>
 	<message key="grid.action.bookInfo">Submission Info</message>
@@ -244,4 +244,5 @@
 	<message key="grid.userGroup.unassignedStage">Rol de {$userGroupName} desasignado de la fase de {$stageName}.</message>
 	<message key="grid.submission.itemTitle">Autor; título</message>
 	<message key="grid.task.status.new">Marcar cuando se considere oportuno</message>
+	<message key="grid.action.deleteNotifications">Borrar notificaciones</message>
 </locale>

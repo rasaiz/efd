@@ -326,7 +326,7 @@
 	<message key="manager.plugins.wrongName">El archivo version.xml del módulo que ha cargado contiene un nombre que no se ajusta al nombre del módulo actualizado.</message>
 	<message key="manager.plugins.pleaseInstall">El complemento no existe.  Instale el complemento</message>
 	<message key="manager.plugins.pleaseUpgrade">El complemento ya existe, pero es una versión superior a la ya instalada.  Actualice el complemento</message>
-	<message key="manager.plugins.settings">Preferéncias</message>
+	<message key="manager.plugins.settings">Preferencias</message>
 	<message key="manager.plugins.tarCommandNotFound">El comando tar no está disponible. Configúrelo correctamente en su "config.inc.php".</message>
 	<message key="manager.plugins.upgrade">Actualizar módulo</message>
 	<message key="manager.plugins.upgradeDescription">Este formulario le permite actualizar un complemento.  Asegúrese de que el complemento está comprimido como un archivo .tar.gz.</message>
@@ -388,7 +388,7 @@
 	<message key="settings.libraryFiles.category.other">Otro</message>
 
 	<!--  Genre grid settings -->
-	<message key="grid.action.addGenre">Add Genre</message>
+	<message key="grid.action.addGenre">Añadir género</message>
 	<message key="grid.action.editGenre">Editar este género</message>
 	<message key="grid.action.deleteGenre">Eliminar este género</message>
 	<message key="grid.action.restoreGenres">Restaurar todos los géneros a la configuración por defecto</message>
@@ -519,4 +519,6 @@
 	<message key="manager.reviewForms.noneChosen">Formulario de revisión libre</message>
 	<message key="manager.reviewerSearch.form.previousReviewRounds">Revisores de este envío en las rondas previas</message>
 	<message key="manager.statistics.reports.optionalColumns.description">Los ítems en cursiva y señalados con un asterisco (*) son datos opcionales para el actual método de cálculo de estadísticas en el sistema (tipo métrico). Puede tener estos datos o no, según su configuración del plugin de estadísticas.</message>
+	<message key="manager.userSearch.searchByName">Buscar usuario por apellido</message>
+	<message key="manager.setup.layout.sidebar">Barra lateral</message>
 </locale>

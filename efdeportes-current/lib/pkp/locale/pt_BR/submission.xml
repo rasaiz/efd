@@ -616,4 +616,5 @@
 	<message key="notification.type.copyeditorRequest">Você foi convidado a avaliar a versão de texto revisado para "{$title}".</message>
 	<message key="notification.type.layouteditorRequest">Você foi solicitado a avaliar o layout para "{$title}".</message>
 	<message key="notification.type.indexRequest">Você foi solicitado a catalogar o documento "{$title}".</message>
+key="submission.submit.submissionLocaleDescription">Os artigos são aceitos em vários idiomas. Escolha o idioma principal de embarque a partir do menu drop-down abaixo.</message>
 </locale>

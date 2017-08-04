@@ -508,4 +508,5 @@ Há casos em que uma única estatística de uso devem ser utilizada, por exemplo
 	<message key="manager.setup.privacyStatement.description">Esta declaração aparecerá durante o envio do manuscrito pelo autor e na página "Sobre" disponível publicamente.</message>
 	<message key="plugins.importexport.common.validationErrors">Erros de validação:</message>
 	<message key="manager.userSearch.searchByName">Buscar Esuário por Nome</message>
+	<message key="manager.setup.layout.sidebar">Barra lateral</message>
 </locale>
