@@ -1013,4 +1013,5 @@ La configuración del soporte CLOCKSS para Open Journal Systems no hace falta qu
 
 	<message key="editor.issues.backIssues">Números anteriores</message>
 	<message key="editor.issues.futureIssues">Próximos números</message>
+	<message key="journal.viewAllIssues">Ver todos los números</message>
 </locale>

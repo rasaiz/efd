@@ -89,4 +89,5 @@ ________________________________________________________________________</messag
 	<message key="default.groups.name.externalReviewer">Revisor/a</message>
 	<message key="default.groups.plural.externalReviewer">Revisores/as</message>
 	<message key="default.groups.abbrev.externalReviewer">R</message>
+	<message key="default.groups.abbrev.guestEditor">EI</message>
 </locale>
